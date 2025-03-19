@@ -1,0 +1,35 @@
+/* 
+<!-- Sukumar Sourabh Sahoo
+     Roll - 01
+     SIC - 23MMCI43 --> */
+body{
+    background-color: #060628;
+    color: white;
+    /* margin-top: 80px; */
+}
+.content{
+    padding-top: 80px;
+}
+.image{
+    height: 320px;
+    width: 320px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    /* box-shadow: 1px  rgb(56, 21, 184); */
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.about{
+    text-align: justify;
+}
+.info{
+    padding:0% 5%;
+}
+.projects .card {
+    background-color: #333;
+    border: none;
+    color: #fff;
+  }
